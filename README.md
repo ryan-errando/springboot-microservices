@@ -4,8 +4,10 @@ Authentication service and user management service created with spring boot fram
 How to run the application ?
 
 1. run it in your IDE (im using intellij IDEA)
+![image](https://github.com/user-attachments/assets/43882e8e-f854-4f90-824c-f1f6fe09ad42)
 
 2. open postman and fill the url : http://localhost:8080
+![image](https://github.com/user-attachments/assets/308408e8-8740-44b5-bdc3-5b2388a5e6a4)
 
 3. if you want to add user into the database add "/api/adduser", and fill the requirement that included in **User** class
    
